@@ -1,0 +1,16 @@
+Uma mensagem no navegador:
+
+Ao abrir o HTML abaixo em um navegador, o que irá acontecer?
+
+<html>
+    <head>
+    </head>
+    <body>
+        <h1>Minha página com Javascript</h1>
+        <script>
+            Olá mundo!
+        </script>
+    </body>
+</html>
+
+R= Será exibido apenas o texto do <h1> e um erro no console do desenvolvedor.

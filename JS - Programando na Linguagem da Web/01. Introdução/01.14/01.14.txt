@@ -1,0 +1,7 @@
+Apenas um pedacinho...
+
+Sabemos que o document contém a representação de todo o HTML da nossa página, porém na maioria dos casos estamos interessados em apenas uma parte do HTML, e não nele todo.
+
+Qual função podemos utilizar na variável document para especificar que queremos trazer apenas uma parte do HTML ?
+
+R= document.querySelector();

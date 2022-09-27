@@ -1,0 +1,6 @@
+Interpretando scripts no navegador:
+
+Sabemos que o navegador entende apenas HTML e que se colocarmos scripts diretamente no corpo da mensagem eles 
+serão interpretados como texto. Como resolvemos isso?
+
+Através da tag <script></script>. Tudo que estiver dentro dela será interpretado como script e não texto.

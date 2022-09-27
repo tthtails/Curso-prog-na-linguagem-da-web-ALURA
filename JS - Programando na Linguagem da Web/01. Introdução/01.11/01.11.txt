@@ -1,0 +1,5 @@
+Importando um arquivo externo:
+
+Qual código abaixo importa corretamente um arquivo .js chamado contador.js que se encontra na mesma pasta de nosso arquivo HTML?
+
+R= <script src="contador.js"></script>

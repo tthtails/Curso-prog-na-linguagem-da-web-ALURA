@@ -1,0 +1,11 @@
+Console do desenvolvedor:
+
+Marque as alternativas abaixo que contêm características ou funcionalidades do console de desenvolvedor do navegador:
+
+R= Executar funções Javascript diretamente no console;
+
+Exibir erros de códigos Javascript carregados pelo navegador;
+
+Pode ser aberto com a tecla de atalho CTRL + SHIFT + J no Windows/Linux e CMD + ALT + J no Mac.
+
+Ver os resultados de funções que imprimem no console, como a console.log().

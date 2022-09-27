@@ -1,0 +1,9 @@
+Mensagem de boas vindas:
+
+Qual opção abaixo substitui o hasheado (XXXX) por um código que exibe uma pop up com a mensagem de boas-vindas?
+
+XXXX mensagem = "Seja bem vindo ao meu site!"
+
+XXXX(mensagem);
+
+R= var e alert respectivamente.

@@ -1,0 +1,5 @@
+Um tal de document:
+
+O que contém a variável document do JavaScript ?
+
+R= Ela é a representação do DOM ou Document Object Model, que é a representação da nossa página HTML para o navegador, que é utilizada pelo Javascript para manipular a página.

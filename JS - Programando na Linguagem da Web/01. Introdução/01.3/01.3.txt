@@ -1,0 +1,4 @@
+Por que estudar Javascript?
+
+é uma linguagem que, além de ser a padrão nos navegadores atuais, vem expandindo para outras áreas como servidores, 
+banco de dados e até plataformas de Internet of Things.
